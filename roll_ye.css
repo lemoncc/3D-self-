@@ -1,0 +1,23 @@
+			.roll_ye{
+				top:-1600px;
+				left:1000px;
+				animation:circlefirst 15s linear infinite;
+			}
+			.roll_ye p:nth-child(1){
+				opacity:0.5;border-radius:50%;
+			}
+			.roll_ye p:nth-child(2){
+				opacity:0.1;border-radius:50%;
+			}
+			.roll_ye p:nth-child(3){
+				opacity:1;border-radius:50%;
+			}
+			.roll_ye p:nth-child(4){
+				opacity:0.1;border-radius:50%;
+			}
+			.roll_ye p:nth-child(5){
+				opacity:0.1;border-radius:50%;
+			}
+			.roll_ye p:nth-child(6){
+				opacity:0.1;border-radius:50%;
+			}

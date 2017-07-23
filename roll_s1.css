@@ -1,0 +1,23 @@
+			.roll_s1{
+				top:-300px;
+				left:100px;
+				animation:circlethird 15s linear infinite;
+			}
+			.roll_s1 p:nth-child(1){
+				background:red;opacity:0.1;border-radius:50%;
+			}
+			.roll_s1 p:nth-child(2){
+				background:red;opacity:0.1;border-radius:50%;
+			}
+			.roll_s1 p:nth-child(3){
+				background:red;opacity:0.1;border-radius:50%;
+			}
+			.roll_s1 p:nth-child(4){
+				background:red;opacity:0.1;border-radius:50%;
+			}
+			.roll_s1 p:nth-child(5){
+				background:red;opacity:0.1;border-radius:50%;
+			}
+			.roll_s1 p:nth-child(6){
+				background:red;opacity:0.1;border-radius:50%;
+			}

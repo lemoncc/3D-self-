@@ -1,0 +1,23 @@
+			.roll_s6{
+				top:-1200px;
+				left:800px;
+				animation:circlethird 15s linear infinite;
+			}
+			.roll_s6 p:nth-child(1){
+				background:#e4393c;opacity:0.1;border-radius:50%;
+			}
+			.roll_s6 p:nth-child(2){
+				background:#e4393c;opacity:0.1;border-radius:50%;
+			}
+			.roll_s6 p:nth-child(3){
+				background:#e4393c;opacity:0.1;border-radius:50%;
+			}
+			.roll_s6 p:nth-child(4){
+				background:#e4393c;opacity:0.1;border-radius:50%;
+			}
+			.roll_s6 p:nth-child(5){
+				background:#e4393c;opacity:0.1;border-radius:50%;
+			}
+			.roll_s6 p:nth-child(6){
+				background:#e4393c;opacity:0.1;border-radius:50%;
+			}
